@@ -1,6 +1,6 @@
 ---
 title: Top Page
-updated: 2026-07-01T03:45:22+07:00
+updated: 2026-07-01T18:57:31+07:00
 tags:
 ---
 
@@ -15,3 +15,4 @@ tags:
 - [[data-science|Data Science]]
 - [[digital-garden|Digital Garden]]
 - [[second-brain|Second Brain]]
+- [[system-design|System Design]]

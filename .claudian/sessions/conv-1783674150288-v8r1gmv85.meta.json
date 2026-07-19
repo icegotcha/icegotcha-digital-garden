@@ -1,0 +1,26 @@
+{
+  "id": "conv-1783674150288-v8r1gmv85",
+  "providerId": "codex",
+  "title": "Are there more data",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783674150290,
+  "updatedAt": 1783675743726,
+  "lastResponseAt": 1783675743726,
+  "sessionId": "019f4b43-acb0-7531-a2e9-ec501624a783",
+  "providerState": {
+    "threadId": "019f4b43-acb0-7531-a2e9-ec501624a783",
+    "sessionFilePath": "C:\\Users\\icegotcha\\.codex\\sessions\\2026\\07\\10\\rollout-2026-07-10T16-02-39-019f4b43-acb0-7531-a2e9-ec501624a783.jsonl",
+    "transcriptRootPath": "C:\\Users\\icegotcha\\.codex\\sessions"
+  },
+  "currentNote": "cache-stampede.md",
+  "usage": {
+    "inputTokens": 14736,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 5504,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 14736,
+    "percentage": 6,
+    "model": "gpt-5.5"
+  }
+}

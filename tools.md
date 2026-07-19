@@ -1,6 +1,8 @@
 ---
 title: Tools
 updated: 2026-06-30T21:41:51+07:00
+tags:
+  - tools
 ---
 - [[obsidian|Obsidian]]
 -  [[git|Git]]

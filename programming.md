@@ -2,6 +2,7 @@
 title: Programming
 updated: 2026-06-30T21:42:54+07:00
 tags:
+  - programming
 ---
 Languages:
 

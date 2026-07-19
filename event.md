@@ -2,6 +2,7 @@
 title: Event
 updated: 2026-04-20T07:56:56+07:00
 tags:
+  - event
 ---
 ## 2026
 

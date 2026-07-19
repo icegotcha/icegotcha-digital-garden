@@ -1,0 +1,26 @@
+{
+  "id": "conv-1783662840135-a7y3u0xux",
+  "providerId": "codex",
+  "title": "summary each type",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783662840136,
+  "updatedAt": 1783674139750,
+  "lastResponseAt": 1783673865168,
+  "sessionId": "019f4a97-0b09-7092-9fd4-f1ff2a1e509d",
+  "providerState": {
+    "threadId": "019f4a97-0b09-7092-9fd4-f1ff2a1e509d",
+    "sessionFilePath": "C:\\Users\\icegotcha\\.codex\\sessions\\2026\\07\\10\\rollout-2026-07-10T12-54-05-019f4a97-0b09-7092-9fd4-f1ff2a1e509d.jsonl",
+    "transcriptRootPath": "C:\\Users\\icegotcha\\.codex\\sessions"
+  },
+  "currentNote": "caching-type.md",
+  "usage": {
+    "inputTokens": 25075,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22912,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 25075,
+    "percentage": 10,
+    "model": "gpt-5.4-mini"
+  }
+}

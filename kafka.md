@@ -1,6 +1,6 @@
 ---
 title: Kafka
-updated: 2026-07-01T03:41:47+07:00
+updated: 2026-07-03T10:59:18+07:00
 tags:
   - event-driven
   - system-design
@@ -54,7 +54,7 @@ From [*The Log: What every software engineer should know about real-time data's 
 
 Apache Kafka เป็นระบบกระจายข้อมูลที่ทำงานแบบ **Publish-Subscribe** **(Pub-Sub)**
 
-- จะมีตัวกลางที่ทำหน้าที่เป็นตัวรับและส่งข้อมูล ****เรียกว่า **Message Broker**
+- จะมีตัวกลางที่ทำหน้าที่เป็นตัวรับและส่งข้อมูล *๕เรียกว่า **Message Broker**
 
 - ข้อมูลจะถูกเรียกว่า **Message,** **Event** หรือ **Record**
 

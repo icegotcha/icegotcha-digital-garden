@@ -1,0 +1,25 @@
+{
+  "id": "conv-1783662233463-07v1yzqhp",
+  "providerId": "codex",
+  "title": "Show use case of each of caching strategies",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783662233464,
+  "updatedAt": 1783662824666,
+  "lastResponseAt": 1783662282450,
+  "sessionId": "019f4a8d-e70d-7dc1-be1c-6ec943e66ea8",
+  "providerState": {
+    "threadId": "019f4a8d-e70d-7dc1-be1c-6ec943e66ea8",
+    "sessionFilePath": "C:\\Users\\icegotcha\\.codex\\sessions\\2026\\07\\10\\rollout-2026-07-10T12-44-06-019f4a8d-e70d-7dc1-be1c-6ec943e66ea8.jsonl",
+    "transcriptRootPath": "C:\\Users\\icegotcha\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 11633,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 10624,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 11633,
+    "percentage": 5,
+    "model": "gpt-5.4-mini"
+  }
+}

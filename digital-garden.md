@@ -1,7 +1,7 @@
 ---
 title: Digital Garden
-updated: 2026-06-29T19:14:26+07:00
+updated: 2026-07-02T15:24:37+07:00
 tags:
+  - digital-garden
 ---
 [[welcome|Welcome to My Digital Garden]]
-[[how-i-take-notes|How I Take Notes]]
